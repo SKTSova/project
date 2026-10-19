@@ -1,0 +1,6 @@
+{
+  "name": "ScienceQuiz - Hóa học",
+  "description": "Hệ thống ôn thi Hóa học cá nhân ScienceQuiz với màn hình Preview 'AI Đã Hiểu Gì', tạo Summary, Key Points & Study Pack đầu tiên lưu trữ LocalStorage (Buổi 3).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
